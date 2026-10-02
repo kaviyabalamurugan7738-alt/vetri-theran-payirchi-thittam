@@ -123,6 +123,32 @@ By automating the standard laptop procurement process using ServiceNow Flow Desi
 
 This workflow helps improve procurement efficiency, reduce user waiting time, optimize resource allocation, and provide a more streamlined IT procurement process.
 
+## Project Milestones
+
+### Milestone 1: Flow
+
+**Activity 1: Create a Flow to Create Catalog Task**
+
+Create a Flow to automatically create a Catalog Task after the Service Request is approved. The task updates the short description and assigns the Assignment Group to **Hardware**.
+
+**Status:** 0%
+
+### Milestone 2: Flow Assignment
+
+**Activity 1: Flow Assignment to Standard Laptop Service Catalog**
+
+Assign the created Flow to the **Standard Laptop** Service Catalog through the Process Engine configuration.
+
+**Status:** 0%
+
+### Milestone 3: Service Catalog
+
+**Activity 1: Service Catalog for Placing Order and Getting Approval**
+
+Use the **Standard Laptop** Service Catalog to place an order and obtain approval. After approval, verify the generated Catalog Task.
+
+**Status:** 0%
+
 ## Project Documentation
 
 The complete project documentation is available in:
